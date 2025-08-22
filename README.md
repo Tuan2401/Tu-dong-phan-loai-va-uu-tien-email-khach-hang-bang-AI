@@ -72,6 +72,7 @@ Trang chủ: hiển thị danh sách email + nhãn phân loại.
 Chi tiết email: hiển thị nội dung + lý do phân loại + mức ưu tiên.
 
 Thống kê: biểu đồ số lượng email theo từng loại.
+
 📌 Kết quả đạt được
 
       Hệ thống tự động phân loại email với độ chính xác trung bình 85–90% (tùy tập dữ liệu).
