@@ -72,3 +72,20 @@ Trang chủ: hiển thị danh sách email + nhãn phân loại.
 Chi tiết email: hiển thị nội dung + lý do phân loại + mức ưu tiên.
 
 Thống kê: biểu đồ số lượng email theo từng loại.
+📌 Kết quả đạt được
+
+      Hệ thống tự động phân loại email với độ chính xác trung bình 85–90% (tùy tập dữ liệu).
+      
+      Giảm tải cho nhân viên chăm sóc khách hàng.
+      
+      Tăng tốc độ phản hồi email quan trọng.
+
+🔮 Hướng phát triển
+
+      Tích hợp Deep Learning (LSTM, BERT) để cải thiện độ chính xác.
+      
+      Tích hợp phân tích cảm xúc (Sentiment Analysis) để xác định mức độ hài lòng của khách hàng.
+      
+      Tích hợp chatbot AI để phản hồi email tự động 24/7.
+      
+      Phát triển hệ thống đa ngôn ngữ (tiếng Việt, tiếng Anh).
