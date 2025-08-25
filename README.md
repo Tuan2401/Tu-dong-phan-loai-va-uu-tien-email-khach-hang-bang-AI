@@ -68,10 +68,13 @@ Triển khai ứng dụng
 📷 Minh họa giao diện (ví dụ)
 
 Trang chủ: hiển thị danh sách email + nhãn phân loại.
+<img width="1910" height="1001" alt="image" src="https://github.com/user-attachments/assets/f3b5b3e7-a8d7-4862-83e2-08bac0711721" />
 
 Chi tiết email: hiển thị nội dung + lý do phân loại + mức ưu tiên.
+<img width="1197" height="621" alt="image" src="https://github.com/user-attachments/assets/00990387-f77e-41da-babc-03f691d5ccb7" />
 
 Thống kê: biểu đồ số lượng email theo từng loại.
+<img width="816" height="708" alt="image" src="https://github.com/user-attachments/assets/d4ddd655-0fa0-4fac-a849-c04357362dcb" />
 
 📌 Kết quả đạt được
 
